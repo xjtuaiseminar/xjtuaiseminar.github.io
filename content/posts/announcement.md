@@ -11,7 +11,7 @@ categories: ["系统信息"]
 
 ## 如何预约/公告 Seminar
 
-本站使用 Hugo 框架进行搭建并且维护，同时使用 PaperMod 主题。因此，您需要具备一定的 Git 和 Markdown 知识才能发布新的公告。
+本站使用 Hugo 框架进行搭建并且维护，同时使用 PaperMod 主题。因此，您需要具备一定的 Git 和 Markdown 知识才能发布新的公告。相关技能的初步了解可以前往 [廖雪峰的 Git 教程](https://www.liaoxuefeng.com/wiki/896043488029600) 以及 [Markdown 官方教程](https://markdown.com.cn/basic-syntax/) 进行学习。
 
 ## 格式规范
 
