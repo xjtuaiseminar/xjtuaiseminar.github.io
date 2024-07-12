@@ -15,3 +15,17 @@ categories: ["系统信息"]
 
 ## 格式规范
 
+在本站进行公告以及宣传，需使用 Markdown 进行编写。任何具有创意的页面编辑均是被允许的，但是为了网站的格式化表达，我们依然给出对于文章内容的格式规范：
+
+使用以下的默认配置：
+
+```yaml
+author: ["线下地址/腾讯会议"]
+title: "XJTU AI Seminar 2024 - X"
+date: "2024-07-12"
+summary: "主讲人信息。"
+tags: ["Seminar 所在领域"]
+categories: ["Seminar"]
+```
+
+其中，`author`, `summary` 和 `tags` 部分需要根据实际情况进行修改。同时 Title 部分需要按照当前的 Seminar 序号进行命名，例如 `XJTU AI Seminar 2024 - 1`。
