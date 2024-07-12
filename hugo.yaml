@@ -3,15 +3,6 @@ title: XJTU AI Seminar
 paginate: 5
 theme: PaperMod
 
-enableRobotsTXT: true
-buildDrafts: false
-buildFuture: false
-buildExpired: false
-
-minify:
-  disableXML: true
-  minifyOutput: true
-
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: XJTU AI Seminar
